@@ -4,6 +4,6 @@ An operating desk for hair studios: appointments, client history and follow-ups 
 
 **[Explore the live product →](https://cizo.app/)**
 
-[![Cizo demo: VIP filtering, client history and salon agenda](assets/workflow.gif)](https://cizo.app/)
+[![Concept illustration: a salon appointment fills an open slot](assets/concept.gif)](https://cizo.app/)
 
-The demo runs in Cizo’s built-in sample-data mode. It shows VIP filtering in the CRM, a client’s visit history and the team agenda. Built with React Native. The application source remains private while the product is developed.
+The illustration shows the flow from an open slot to a confirmed booking. [See a capture of the actual interface](assets/workflow.gif): VIP filtering, a client's visit history and the team agenda in sample-data mode. Built with React Native. The application source remains private while the product is developed.
